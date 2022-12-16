@@ -1,13 +1,14 @@
  Tatiana Gurko
  =============
- contact information
+ Contact information
  --------------------
  - mail: tanika.gur@gmail.com
  - discord: @tanikagur
+
  About
  ------
- I am learning JS in RS school. 
- 
+ I am learning JS in RS school. s
+
  Level of english
  -----------------
  A2
