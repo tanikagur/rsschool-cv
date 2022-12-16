@@ -7,7 +7,7 @@
 
  About
  ------
- I am learning JS in RS school. s
+ I am learning JS in RS school.
 
  Level of english
  -----------------
